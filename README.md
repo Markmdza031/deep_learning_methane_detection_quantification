@@ -10,4 +10,4 @@ Data Preparation - image processing and target mask creation for plume images
 Modeling - creating a model pipeline for efficient satellite methane detection and quantification
 Evaluation - checking parameters and features, and iterating on the model pipeline as necessary.
 
-For more informations you may view the following [presentation report](https://drive.google.com/file/d/1WefO-ixbw0ERmaPcvMA59nhsCODaKK6F/view?usp=share_link).
+For more information, you may view the [presentation report](https://drive.google.com/file/d/1WefO-ixbw0ERmaPcvMA59nhsCODaKK6F/view?usp=share_link).
